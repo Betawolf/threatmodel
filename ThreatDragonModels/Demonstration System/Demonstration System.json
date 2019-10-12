@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Demonstration System",
+    "owner": "",
+    "description": "System example taken from Adam Shostack's \"Threat Modeling\""
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
